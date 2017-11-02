@@ -1,2 +1,2 @@
 # Theremin
-A max/msp patch that takes Leap Motion sensor input to play MIDI notes and controll note volumes
+A max/msp patch that takes Leap Motion sensor input to play MIDI notes and controll note volumes. Please open "theremin.maxpat".
